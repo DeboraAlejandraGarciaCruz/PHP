@@ -9,3 +9,4 @@ El proyecto está compuesto por los siguientes archivos:
 - **`freight.php`**: Script PHP que procesa la información del envío y muestra el resultado.
 - **`orderform.html`**: Formulario de pedidos que permite al usuario seleccionar las cantidades de productos que desea comprar.
 - **`processorder.php`**: Archivo PHP que procesa el pedido realizado, calcula el subtotal, el total con impuestos, y muestra cómo el cliente encontró la tienda.
+## Funcionalidades
