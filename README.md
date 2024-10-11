@@ -4,3 +4,4 @@ Permite a los usuarios realizar pedidos de productos específicos, calcular el t
 conoció la tienda.
 
 ## Estructura del Proyecto
+El proyecto está compuesto por los siguientes archivos:
