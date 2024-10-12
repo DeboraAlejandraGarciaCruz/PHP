@@ -19,3 +19,4 @@ El proyecto está compuesto por los siguientes archivos:
 ## Ejemplo de Uso
 - **Formulario de Pedido**: Llena las cantidades de productos en `orderform.html`.
 - **Proceso del Pedido**: El archivo `processorder.php` se encargará de calcular el total y mostrar los detalles del pedido.
+- **Envío**: Usa `freight.html` para ver la información relacionada con el envío.
