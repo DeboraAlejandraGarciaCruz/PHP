@@ -17,3 +17,4 @@ El proyecto está compuesto por los siguientes archivos:
 - **Visualización del Pedido**: Muestra un resumen del pedido con las cantidades de cada producto y el total con impuestos.
 
 ## Ejemplo de Uso
+- **Formulario de Pedido**: Llena las cantidades de productos en `orderform.html`.
