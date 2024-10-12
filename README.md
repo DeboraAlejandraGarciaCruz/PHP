@@ -15,3 +15,5 @@ El proyecto está compuesto por los siguientes archivos:
 - **Cálculo de Precios**: Se calcula el total de los productos seleccionados, incluyendo impuestos.
 - **Información del Cliente**: Se muestra cómo el cliente supo sobre la tienda (cliente regular, referencia de televisión, directorio telefónico, recomendación de boca a boca).
 - **Visualización del Pedido**: Muestra un resumen del pedido con las cantidades de cada producto y el total con impuestos.
+
+## Ejemplo de Uso
