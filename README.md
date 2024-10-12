@@ -22,6 +22,6 @@ El proyecto está compuesto por los siguientes archivos:
 - **Envío**: Usa `freight.html` para ver la información relacionada con el envío.7
 
 ## Requisitos
-
 - **PHP**: Debes tener instalado PHP en tu servidor web.
 - **Servidor Web Local**: Requiere un entorno como Apache para ejecutar los archivos PHP.
+
