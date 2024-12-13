@@ -26,4 +26,4 @@ El proyecto está compuesto por los siguientes archivos:
 - **Servidor Web Local**: Requiere un entorno como Apache para ejecutar los archivos PHP.
 
 ## Autor
-Debora Alejandra Garcia Cruz 12
+Debora Alejandra Garcia Cruz 124
