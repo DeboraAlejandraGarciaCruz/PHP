@@ -27,4 +27,4 @@ El proyecto está compuesto por los siguientes archivos:
 
 ## Autor
 Debora Alejandra Garcia Cruz 124
-3
+35
