@@ -25,5 +25,5 @@ El proyecto está compuesto por los siguientes archivos:
 - **PHP**: Debes tener instalado PHP en tu servidor web.
 - **Servidor Web Local**: Requiere un entorno como Apache para ejecutar los archivos PHP.
 
-## Autor
+## Autora
 Débora Alejandra Garcia Cruz 
