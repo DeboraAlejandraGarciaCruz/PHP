@@ -28,4 +28,4 @@ El proyecto está compuesto por los siguientes archivos:
 ## Autora
 Débora Alejandra García Cruz.
 14671011
-2 35891
+2 3589
